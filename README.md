@@ -1,4 +1,4 @@
-<img loser="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCBIDMLbmKNko1_pBbyW7HNrfcXDuifasXjQ&usqp=CAU">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCBIDMLbmKNko1_pBbyW7HNrfcXDuifasXjQ&usqp=CAU">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
